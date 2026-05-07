@@ -1,0 +1,16 @@
+2567,Sathiya,500
+1007,Sathiya,1000
+1177,Harini,1000
+4471,Samyuktha,3000
+1,Ramya,2000
+2,Archana,1000
+3,Rekha,3500
+4,Dinesh,1000
+5,priya,500
+6,Suri,3000
+1924,Archana,1000
+3456,Raju,2000
+1237,Somu,5000
+6478,Kamalesh,5000
+8687,Imran,6000
+9087,Krishna,1500
